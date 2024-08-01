@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Nikunj Assignment\\OrderViewer\\OrderViewer.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Nikunj-Assignment\\OrderViewer\\OrderViewer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Nikunj Assignment\\OrderViewer\\OrderViewer.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Nikunj-Assignment\\OrderViewer\\OrderViewer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Nikunj Assignment\\OrderViewer\\OrderViewer.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Nikunj-Assignment\\OrderViewer\\OrderViewer.csproj",
         "projectName": "OrderViewer",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Nikunj Assignment\\OrderViewer\\OrderViewer.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Nikunj-Assignment\\OrderViewer\\OrderViewer.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Nikunj Assignment\\OrderViewer\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Nikunj-Assignment\\OrderViewer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
