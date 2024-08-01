@@ -1,0 +1,21 @@
+name: "Python Syntax Check"
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * 0' # Runs weekly on Sunday
+
+jobs:
+  syntax-check:
+    name: Check Python Syntax
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Run Python syntax check
+      run: python -m compileall .
